@@ -1,5 +1,3 @@
-# Rohit Kamath 
-
 ## Neuroscientist 
 
 Technical Skills: R, Python MATLAB
