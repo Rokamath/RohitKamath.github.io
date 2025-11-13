@@ -1,5 +1,5 @@
 title: Rohit Kamath 
-# logo: 
+logo: /assets/img/profilepic.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - minima
