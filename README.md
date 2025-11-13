@@ -1,5 +1,5 @@
 # Rohit Kamath 
-![KCL Logo](assets/img/kcllogosmall)
+![KCL Logo](assets/img/kcllogo.png)
 ## Neuroscientist 
 
 Technical Skills: R, Python MATLAB
