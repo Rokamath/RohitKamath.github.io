@@ -1,6 +1,6 @@
 title: Rohit Kamath 
 logo: assets/img/profilepic.png
-logo: <img src="assets/img/kcllogo.png" style=" width:180px ; height:180px "  >
+logo: assets/img/kcllogo.png
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
